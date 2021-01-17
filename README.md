@@ -20,7 +20,7 @@
   <img align="left" alt="Lalithesh Akula | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a> 
 <a href="https://www.linkedin.com/in/lalitheshakula/">
-  <img align="left"  alt="Lalithesh Akula | Linkedin" width="21px" src="linkedin.png" />
+  <img align="left"  alt="Lalithesh Akula | Linkedin" width="21px" src="linkedin.jfif" />
 </a>
 
 <br/>
