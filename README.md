@@ -30,7 +30,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.google.com/search?q=github+icon&rlz=1C1CHBF_enIN882IN882&sxsrf=ALeKk02hI2kcMZwd3odJeHbCW4sQiu3x9w:1611079999240&tbm=isch&source=iu&ictx=1&fir=Lp2OqU7fPdjSMM%252CkHlC0fHCgyWhTM%252C_&vet=1&usg=AI4_-kT-nVNcKQcJTy4pSJXURBSc7a21UA&sa=X&ved=2ahUKEwiosbzYzKjuAhWhzDgGHc3pAbEQ9QF6BAgOEAE&cshid=1611080143212723#imgrc=Lp2OqU7fPdjSMM" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
