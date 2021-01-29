@@ -56,7 +56,9 @@
 </details>
 
 <details>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lalithesh11&repo=github-readme-stats)](https://github.com/lalithesh11/github-readme-stats)
+<summary>:zap: Repos</summary>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lalithesh11&repo=github-readme-stats)](https://github.com/lalithesh11/github-readme-stats) -->
+https://github.com/lalithesh11/github-readme-stats
 </details>
 
 <!-- [website]: https://codeSTACKr.com -->
