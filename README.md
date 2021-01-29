@@ -13,7 +13,7 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="lalithesh | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="lalithesh | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Medium]
+<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Medium] -->
 
 
 
@@ -42,8 +42,8 @@
 
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykiran199715&theme=dark&show_icons=true&count_private=true" height="207px" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran199715&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lalithesh11&theme=dark&show_icons=true&count_private=true" height="207px" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithesh11&theme=dark"/>
 
 </P>
 
