@@ -1,6 +1,6 @@
 ### Hi there, I'm Lalithesh! 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lalithesh11.github.io/lalithesh_portfolio/)
 
 ## I'm a MERN Stack Developer!!
 
@@ -63,7 +63,7 @@
 
 
 
-<!-- [website]: https://codeSTACKr.com -->
+[website]: https://lalithesh11.github.io/lalithesh_portfolio/
 [twitter]: https://twitter.com/LalitheshA
 <!-- [Medium]: https://www.instagram.com/lalithesh_11/ -->
 [linkedin]: https://linkedin.com/in/lalitheshakula
