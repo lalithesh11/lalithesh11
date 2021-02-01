@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=lalithesh.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lalithesh11.github.io/lalithesh_portfolio/)
 
-## I'm a MERN Stack Developer!!
+## I'm a Full Stack Developer!!
 
 - 🌱 I’m loving NodeJS.
 - 👯 I’m looking to collaborate with developers to make an amazing application.
